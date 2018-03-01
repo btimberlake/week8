@@ -54,7 +54,7 @@ Let's create a _table_, which is defined as a series of columns, like a spreadsh
 Pay attention to the semicolon at the end of the line!
 
 ```
-sqlite> sqlite> create table friends(id integer primary key, name text, hometown text);
+sqlite> create table friends(id integer primary key, name text, hometown text);
 ```
 
 You should now be at the `sqlite>` prompt again.
